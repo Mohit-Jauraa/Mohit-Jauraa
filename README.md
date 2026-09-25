@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, I am Mohit Jaura 
 
-<!--
-**Mohit-Jauraa/Mohit-Jauraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my data analytics portfolio. I focus on turning messy operational data into clear, actionable insights that help leadership teams solve business problems. 
 
-Here are some ideas to get you started:
+## Core Analytical Toolkit
+* **Data Visualization & Modeling:** Power BI (Data Modeling, Data Visualization, Decomposition Trees, Conditional Formatting)
+* **Database Querying:** SQL (Relational database management, data extraction, joins)
+* **Statistical Analysis:** Advanced Microsoft Excel (Modelling, metric tracking)
+* **Workflow & Strategy:** End-to-end problem framing and executive reporting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Featured Projects
+* **[SaaS Business Analytics & Churn Strategy](https://github.com/Mohit-Jauraa/SaaS-Business-Analytics-Project):** An end-to-end capstone project diagnosing revenue slowdowns, MRR contraction, and customer support ticket bottlenecks in a B2B SaaS company. Features a 5-page interactive Power BI dashboard and complete phase-by-phase documentation.
+
+##  Let's Connect
+* **LinkedIn:** [Connect with me professionally](https://www.linkedin.com/in/mohit-jaura-8a2336427/)
